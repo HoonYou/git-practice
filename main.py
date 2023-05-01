@@ -4,7 +4,7 @@ def print_hello():
     animals = ['dog', 'cat','hamster'] # in one line
     foods = [
 	'burgers',
-	'salad
+	'salad'
 	'] #without trailing comma
     names = [
 	'John',
